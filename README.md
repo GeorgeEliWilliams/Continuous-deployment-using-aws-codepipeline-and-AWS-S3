@@ -35,3 +35,5 @@ navigate to the properties tab on s3
 scroll down to static website hosting section and click on the website endpoint
 view the game page
 to check if the pipeline trigger is working, we make a minor change to the index.html file and commit it
+image
+we can see that the trigger worked perfectly and the deployment to s3 was successful
